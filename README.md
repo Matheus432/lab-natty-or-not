@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# A DIO em 2030: Educando para o Futuro Tecnológico
 
 ## 📒 Descrição
 um texto de uma historia sobre a DIO ficticia
